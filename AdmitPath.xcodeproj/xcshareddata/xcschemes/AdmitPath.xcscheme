@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F6EE2C2F8B4290BBB04B2636"
+               BlueprintIdentifier = "A38A8999C6D1F491916E2EEB"
                BuildableName = "AdmitPath.app"
                BlueprintName = "AdmitPath"
                ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5FDB9CD61ACAA0E4D16BB04F"
+               BlueprintIdentifier = "E0A46EAD4B887E70042523E2"
                BuildableName = "AdmitPathTests.xctest"
                BlueprintName = "AdmitPathTests"
                ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -42,7 +42,7 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2EA3926EA456E0354A07508F"
+               BlueprintIdentifier = "48419CFB9879782A15C560E0"
                BuildableName = "AdmitPathUITests.xctest"
                BlueprintName = "AdmitPathUITests"
                ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -58,7 +58,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F6EE2C2F8B4290BBB04B2636"
+            BlueprintIdentifier = "A38A8999C6D1F491916E2EEB"
             BuildableName = "AdmitPath.app"
             BlueprintName = "AdmitPath"
             ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -69,7 +69,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5FDB9CD61ACAA0E4D16BB04F"
+               BlueprintIdentifier = "E0A46EAD4B887E70042523E2"
                BuildableName = "AdmitPathTests.xctest"
                BlueprintName = "AdmitPathTests"
                ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -79,7 +79,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2EA3926EA456E0354A07508F"
+               BlueprintIdentifier = "48419CFB9879782A15C560E0"
                BuildableName = "AdmitPathUITests.xctest"
                BlueprintName = "AdmitPathUITests"
                ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -101,7 +101,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F6EE2C2F8B4290BBB04B2636"
+            BlueprintIdentifier = "A38A8999C6D1F491916E2EEB"
             BuildableName = "AdmitPath.app"
             BlueprintName = "AdmitPath"
             ReferencedContainer = "container:AdmitPath.xcodeproj">
@@ -118,7 +118,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F6EE2C2F8B4290BBB04B2636"
+            BlueprintIdentifier = "A38A8999C6D1F491916E2EEB"
             BuildableName = "AdmitPath.app"
             BlueprintName = "AdmitPath"
             ReferencedContainer = "container:AdmitPath.xcodeproj">
