@@ -1,0 +1,166 @@
+[
+  {
+    "id": "peer_sadia",
+    "displayName": "Sadia H.",
+    "nationality": "Bangladesh",
+    "currentCountry": "Canada",
+    "role": "Current Student",
+    "verificationStatus": "Verified Student",
+    "currentUniversity": "Toronto Metropolitan University",
+    "currentProgram": "MSc Business Analytics",
+    "bio": "Came from Dhaka, handled the whole process without a consultant, now sharing what actually mattered.",
+    "subjectAreas": [
+      "Business Analytics"
+    ],
+    "targetCountries": [
+      "Canada"
+    ],
+    "reputationScore": 92,
+    "outcomes": [
+      {
+        "id": "outcome_sadia_1",
+        "universityName": "Toronto Metropolitan University",
+        "programName": "MSc Business Analytics",
+        "country": "Canada",
+        "degreeLevel": "Master's",
+        "intake": "Fall 2027",
+        "result": "Enrolled"
+      }
+    ]
+  },
+  {
+    "id": "peer_faisal",
+    "displayName": "Faisal R.",
+    "nationality": "Bangladesh",
+    "currentCountry": "United Kingdom",
+    "role": "Admit",
+    "verificationStatus": "Verified Admit",
+    "currentUniversity": "University of Leeds",
+    "currentProgram": "MSc Data Science",
+    "bio": "Focused on scholarships and a realistic shortlist instead of prestige chasing.",
+    "subjectAreas": [
+      "Data Science"
+    ],
+    "targetCountries": [
+      "United Kingdom"
+    ],
+    "reputationScore": 88,
+    "outcomes": [
+      {
+        "id": "outcome_faisal_1",
+        "universityName": "University of Leeds",
+        "programName": "MSc Data Science",
+        "country": "United Kingdom",
+        "degreeLevel": "Master's",
+        "intake": "September 2027",
+        "result": "Admit"
+      }
+    ]
+  },
+  {
+    "id": "peer_nabila",
+    "displayName": "Nabila K.",
+    "nationality": "Bangladesh",
+    "currentCountry": "Australia",
+    "role": "Current Student",
+    "verificationStatus": "Verified Student",
+    "currentUniversity": "Monash University",
+    "currentProgram": "BSc Computer Science",
+    "bio": "Undergrad applicant who learned quickly which portals and deadlines actually mattered.",
+    "subjectAreas": [
+      "Computer Science"
+    ],
+    "targetCountries": [
+      "Australia"
+    ],
+    "reputationScore": 85,
+    "outcomes": [
+      {
+        "id": "outcome_nabila_1",
+        "universityName": "Monash University",
+        "programName": "BSc Computer Science",
+        "country": "Australia",
+        "degreeLevel": "Undergraduate",
+        "intake": "Semester 1 2028",
+        "result": "Enrolled"
+      }
+    ]
+  },
+  {
+    "id": "peer_rafi",
+    "displayName": "Rafi A.",
+    "nationality": "Bangladesh",
+    "currentCountry": "United States",
+    "role": "Alumni",
+    "verificationStatus": "Verified Alumni",
+    "currentUniversity": "Arizona State University",
+    "currentProgram": "MSc Finance",
+    "bio": "Now working in data-heavy finance. Shares direct advice on affordability and visa timing.",
+    "subjectAreas": [
+      "Finance"
+    ],
+    "targetCountries": [
+      "United States"
+    ],
+    "reputationScore": 94,
+    "outcomes": [
+      {
+        "id": "outcome_rafi_1",
+        "universityName": "Arizona State University",
+        "programName": "MSc Finance",
+        "country": "United States",
+        "degreeLevel": "Master's",
+        "intake": "Fall 2027",
+        "result": "Graduated"
+      }
+    ]
+  },
+  {
+    "id": "peer_mahi",
+    "displayName": "Mahi S.",
+    "nationality": "Bangladesh",
+    "currentCountry": "Netherlands",
+    "role": "Applicant",
+    "verificationStatus": "Unverified",
+    "currentUniversity": "University of Groningen",
+    "currentProgram": "BA Economics",
+    "bio": "Still in the process and asking detailed questions about budgets and portals.",
+    "subjectAreas": [
+      "Economics"
+    ],
+    "targetCountries": [
+      "Netherlands"
+    ],
+    "reputationScore": 52,
+    "outcomes": []
+  },
+  {
+    "id": "peer_tahsin",
+    "displayName": "Tahsin M.",
+    "nationality": "Bangladesh",
+    "currentCountry": "Hong Kong",
+    "role": "Current Student",
+    "verificationStatus": "Verified Student",
+    "currentUniversity": "City University of Hong Kong",
+    "currentProgram": "BSc Business Analytics",
+    "bio": "Keeps detailed notes on document sequencing and scholarship essays.",
+    "subjectAreas": [
+      "Business Analytics"
+    ],
+    "targetCountries": [
+      "Hong Kong"
+    ],
+    "reputationScore": 79,
+    "outcomes": [
+      {
+        "id": "outcome_tahsin_1",
+        "universityName": "City University of Hong Kong",
+        "programName": "BSc Business Analytics",
+        "country": "Hong Kong",
+        "degreeLevel": "Undergraduate",
+        "intake": "Fall 2027",
+        "result": "Enrolled"
+      }
+    ]
+  }
+]

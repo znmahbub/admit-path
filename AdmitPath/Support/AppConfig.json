@@ -1,0 +1,15 @@
+{
+  "enableAdminPreview": true,
+  "enableRemoteCatalog": true,
+  "enableRemoteWorkspace": true,
+  "enableSOPGateway": true,
+  "productionRequiresSignIn": true,
+  "enableTestMockAuth": true,
+  "googleScopes": "openid email profile",
+  "redirectHost": "auth",
+  "redirectPath": "/callback",
+  "redirectScheme": "admitpath",
+  "staffAdminEmails": [],
+  "supabaseAnonKey": "YOUR_SUPABASE_ANON_KEY",
+  "supabaseURL": "https://YOUR_PROJECT.supabase.co"
+}

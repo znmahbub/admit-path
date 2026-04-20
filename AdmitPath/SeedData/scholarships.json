@@ -1,0 +1,659 @@
+[
+  {
+    "id": "sch_canada_merit",
+    "name": "Canada Merit Pathway Award",
+    "sponsor": "Canada Graduate Access Network",
+    "destinationCountries": [
+      "Canada"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/canada_merit",
+    "summary": "Merit support for South Asian students targeting Canada.",
+    "deadline": "2027-01-10",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_canada_need",
+    "name": "Canada Opportunity Scholarship",
+    "sponsor": "Canada Student Opportunity Fund",
+    "destinationCountries": [
+      "Canada"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/canada_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Canada.",
+    "deadline": "2027-01-10",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_united_kingdom_merit",
+    "name": "United Kingdom Merit Pathway Award",
+    "sponsor": "United Kingdom Graduate Access Network",
+    "destinationCountries": [
+      "United Kingdom"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/united_kingdom_merit",
+    "summary": "Merit support for South Asian students targeting United Kingdom.",
+    "deadline": "2027-02-20",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_united_kingdom_need",
+    "name": "United Kingdom Opportunity Scholarship",
+    "sponsor": "United Kingdom Student Opportunity Fund",
+    "destinationCountries": [
+      "United Kingdom"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/united_kingdom_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in United Kingdom.",
+    "deadline": "2027-02-20",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_united_states_merit",
+    "name": "United States Merit Pathway Award",
+    "sponsor": "United States Graduate Access Network",
+    "destinationCountries": [
+      "United States"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/united_states_merit",
+    "summary": "Merit support for South Asian students targeting United States.",
+    "deadline": "2026-12-01",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_united_states_need",
+    "name": "United States Opportunity Scholarship",
+    "sponsor": "United States Student Opportunity Fund",
+    "destinationCountries": [
+      "United States"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/united_states_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in United States.",
+    "deadline": "2026-12-01",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_australia_merit",
+    "name": "Australia Merit Pathway Award",
+    "sponsor": "Australia Graduate Access Network",
+    "destinationCountries": [
+      "Australia"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/australia_merit",
+    "summary": "Merit support for South Asian students targeting Australia.",
+    "deadline": "2027-09-20",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_australia_need",
+    "name": "Australia Opportunity Scholarship",
+    "sponsor": "Australia Student Opportunity Fund",
+    "destinationCountries": [
+      "Australia"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/australia_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Australia.",
+    "deadline": "2027-09-20",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_malaysia_merit",
+    "name": "Malaysia Merit Pathway Award",
+    "sponsor": "Malaysia Graduate Access Network",
+    "destinationCountries": [
+      "Malaysia"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/malaysia_merit",
+    "summary": "Merit support for South Asian students targeting Malaysia.",
+    "deadline": "2027-05-25",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_malaysia_need",
+    "name": "Malaysia Opportunity Scholarship",
+    "sponsor": "Malaysia Student Opportunity Fund",
+    "destinationCountries": [
+      "Malaysia"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/malaysia_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Malaysia.",
+    "deadline": "2027-05-25",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_hong_kong_merit",
+    "name": "Hong Kong Merit Pathway Award",
+    "sponsor": "Hong Kong Graduate Access Network",
+    "destinationCountries": [
+      "Hong Kong"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/hong_kong_merit",
+    "summary": "Merit support for South Asian students targeting Hong Kong.",
+    "deadline": "2026-12-20",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_hong_kong_need",
+    "name": "Hong Kong Opportunity Scholarship",
+    "sponsor": "Hong Kong Student Opportunity Fund",
+    "destinationCountries": [
+      "Hong Kong"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/hong_kong_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Hong Kong.",
+    "deadline": "2026-12-20",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_germany_merit",
+    "name": "Germany Merit Pathway Award",
+    "sponsor": "Germany Graduate Access Network",
+    "destinationCountries": [
+      "Germany"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/germany_merit",
+    "summary": "Merit support for South Asian students targeting Germany.",
+    "deadline": "2027-05-10",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_germany_need",
+    "name": "Germany Opportunity Scholarship",
+    "sponsor": "Germany Student Opportunity Fund",
+    "destinationCountries": [
+      "Germany"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/germany_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Germany.",
+    "deadline": "2027-05-10",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_netherlands_merit",
+    "name": "Netherlands Merit Pathway Award",
+    "sponsor": "Netherlands Graduate Access Network",
+    "destinationCountries": [
+      "Netherlands"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/netherlands_merit",
+    "summary": "Merit support for South Asian students targeting Netherlands.",
+    "deadline": "2027-03-10",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_netherlands_need",
+    "name": "Netherlands Opportunity Scholarship",
+    "sponsor": "Netherlands Student Opportunity Fund",
+    "destinationCountries": [
+      "Netherlands"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/netherlands_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Netherlands.",
+    "deadline": "2027-03-10",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  },
+  {
+    "id": "sch_ireland_merit",
+    "name": "Ireland Merit Pathway Award",
+    "sponsor": "Ireland Graduate Access Network",
+    "destinationCountries": [
+      "Ireland"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Data Science",
+      "Finance",
+      "Engineering"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.1,
+    "minSecondaryPercent": 85.0,
+    "coverageType": "Partial Tuition",
+    "maxAmountUSD": 10000,
+    "officialURL": "https://example.org/scholarships/ireland_merit",
+    "summary": "Merit support for South Asian students targeting Ireland.",
+    "deadline": "2027-02-10",
+    "needBased": false,
+    "meritBased": true,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain how the degree changes your options relative to your current budget."
+  },
+  {
+    "id": "sch_ireland_need",
+    "name": "Ireland Opportunity Scholarship",
+    "sponsor": "Ireland Student Opportunity Fund",
+    "destinationCountries": [
+      "Ireland"
+    ],
+    "eligibleNationalities": [
+      "Bangladesh",
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "eligibleSubjects": [
+      "Business Analytics",
+      "Business",
+      "Economics",
+      "Public Policy",
+      "Computer Science"
+    ],
+    "eligibleDegreeLevels": [
+      "Master's",
+      "Undergraduate"
+    ],
+    "minGPAValue": 3.0,
+    "minSecondaryPercent": 82.0,
+    "coverageType": "Tuition and Stipend",
+    "maxAmountUSD": 22000,
+    "officialURL": "https://example.org/scholarships/ireland_need",
+    "summary": "Need-sensitive funding for applicants who would otherwise face a binding affordability gap in Ireland.",
+    "deadline": "2027-02-10",
+    "needBased": true,
+    "meritBased": false,
+    "lastUpdatedAt": "2026-03-15T10:00:00Z",
+    "essayPromptHint": "Explain why funding changes feasibility and how you will use the opportunity responsibly."
+  }
+]

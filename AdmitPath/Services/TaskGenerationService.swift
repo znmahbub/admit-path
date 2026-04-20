@@ -1,0 +1,116 @@
+import Foundation
+
+struct TaskGenerationService {
+    func generateTasks(
+        applicationID: String,
+        requirement: ProgramRequirement?,
+        deadline: Date,
+        profile: StudentProfile? = nil
+    ) -> [ApplicationTask] {
+        var tasks: [ApplicationTask] = []
+
+        tasks.append(makeTask(applicationID: applicationID, title: "Review official requirements", daysBeforeDeadline: 60, type: .requirementsReview, deadline: deadline))
+
+        if requirement?.transcriptRequired ?? true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Request transcript", daysBeforeDeadline: 45, type: .transcript, deadline: deadline))
+        }
+
+        if requirement?.cvRequired ?? true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Prepare CV", daysBeforeDeadline: 35, type: .cv, deadline: deadline))
+        }
+
+        if requirement?.sopRequired ?? true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Draft SOP", daysBeforeDeadline: 28, type: .sop, deadline: deadline))
+        }
+
+        if profile?.scholarshipNeeded == true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Draft scholarship essay base", daysBeforeDeadline: 24, type: .scholarshipEssay, deadline: deadline))
+        }
+
+        let lorCount = max(requirement?.lorCount ?? 2, 0)
+        if lorCount > 0 {
+            for number in 1...lorCount {
+                tasks.append(makeTask(applicationID: applicationID, title: "Contact recommender \(number)", daysBeforeDeadline: 24 - (number * 2), type: .lor, deadline: deadline))
+            }
+        }
+
+        if requirement?.passportRequired ?? true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Upload passport copy", daysBeforeDeadline: 18, type: .passport, deadline: deadline))
+        }
+
+        if requirement?.financialProofRequired ?? true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Prepare financial proof", daysBeforeDeadline: 16, type: .financialProof, deadline: deadline))
+        }
+
+        if requirement?.portfolioRequired == true {
+            tasks.append(makeTask(applicationID: applicationID, title: "Compile portfolio", daysBeforeDeadline: 22, type: .portfolio, deadline: deadline))
+        }
+
+        tasks.append(makeTask(applicationID: applicationID, title: "Review application form", daysBeforeDeadline: 10, type: .applicationForm, deadline: deadline))
+        tasks.append(makeTask(applicationID: applicationID, title: "Plan application fee payment", daysBeforeDeadline: 8, type: .applicationFee, deadline: deadline))
+        tasks.append(makeTask(applicationID: applicationID, title: "Submit application", daysBeforeDeadline: 0, type: .submit, deadline: deadline))
+
+        return tasks.sorted { $0.dueDate < $1.dueDate }
+    }
+
+    func completionPercent(for tasks: [ApplicationTask]) -> Int {
+        var percent = 10
+
+        if tasks.contains(where: { $0.taskType == .transcript && $0.isCompleted }) {
+            percent += 15
+        }
+        if tasks.contains(where: { $0.taskType == .cv && $0.isCompleted }) {
+            percent += 10
+        }
+        if tasks.contains(where: { $0.taskType == .sop && $0.isCompleted }) {
+            percent += 20
+        }
+        if tasks.contains(where: { $0.taskType == .scholarshipEssay && $0.isCompleted }) {
+            percent += 10
+        }
+
+        let lorTasks = tasks.filter { $0.taskType == .lor }
+        if lorTasks.isEmpty {
+            percent += 15
+        } else {
+            let completed = lorTasks.filter(\.isCompleted).count
+            percent += Int((Double(completed) / Double(lorTasks.count)) * 15.0)
+        }
+
+        if tasks.contains(where: { $0.taskType == .financialProof && $0.isCompleted }) {
+            percent += 10
+        }
+        if tasks.contains(where: { $0.taskType == .applicationForm && $0.isCompleted }) {
+            percent += 10
+        }
+        if tasks.contains(where: { $0.taskType == .submit && $0.isCompleted }) {
+            percent += 10
+        }
+
+        return min(percent, 100)
+    }
+
+    private func makeTask(
+        applicationID: String,
+        title: String,
+        daysBeforeDeadline: Int,
+        type: ApplicationTaskType,
+        deadline: Date
+    ) -> ApplicationTask {
+        let dueDate = Calendar.current.date(byAdding: .day, value: -daysBeforeDeadline, to: deadline) ?? deadline
+        let slug = title
+            .lowercased()
+            .replacingOccurrences(of: " ", with: "_")
+            .replacingOccurrences(of: "-", with: "_")
+        return ApplicationTask(
+            id: "\(applicationID)_\(type.rawValue.lowercased().replacingOccurrences(of: " ", with: "_"))_\(slug)",
+            applicationID: applicationID,
+            title: title,
+            dueDate: dueDate,
+            taskType: type,
+            isCompleted: false,
+            isAutoGenerated: true,
+            notes: ""
+        )
+    }
+}

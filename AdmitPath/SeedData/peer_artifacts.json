@@ -1,0 +1,78 @@
+[
+  {
+    "id": "artifact_1",
+    "authorID": "peer_sadia",
+    "programID": "uni_toronto_metropolitan_business_analytics_masters",
+    "title": "TMU analytics SOP notes",
+    "summary": "A verified student summary of what made the SOP credible enough to survive internal review.",
+    "kind": "SOP Sample",
+    "country": "Canada",
+    "subjectArea": "Business Analytics",
+    "degreeLevel": "Master's",
+    "verificationStatus": "Verified Student",
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-21T10:00:00Z",
+    "bulletHighlights": [
+      "Used one strong project instead of three weak examples.",
+      "Explained why Canada fit the labor-market goal, not just the brand.",
+      "Mentioned budget pressure honestly without turning it into self-pity."
+    ]
+  },
+  {
+    "id": "artifact_2",
+    "authorID": "peer_faisal",
+    "programID": null,
+    "title": "UK data science admit timeline",
+    "summary": "A verified admit timeline showing which tasks mattered and which ones were noise.",
+    "kind": "Decision Timeline",
+    "country": "United Kingdom",
+    "subjectArea": "Data Science",
+    "degreeLevel": "Master's",
+    "verificationStatus": "Verified Admit",
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-23T09:00:00Z",
+    "bulletHighlights": [
+      "Started the SOP before chasing too many schools.",
+      "Asked for references early because recommenders caused the biggest delay.",
+      "Treated scholarship deadlines as distinct from application deadlines."
+    ]
+  },
+  {
+    "id": "artifact_3",
+    "authorID": "peer_tahsin",
+    "programID": null,
+    "title": "Hong Kong scholarship essay debrief",
+    "summary": "A verified undergrad student breakdown of what changed between a weak and strong scholarship essay.",
+    "kind": "Scholarship Essay",
+    "country": "Hong Kong",
+    "subjectArea": "Business Analytics",
+    "degreeLevel": "Undergraduate",
+    "verificationStatus": "Verified Student",
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-30T12:30:00Z",
+    "bulletHighlights": [
+      "Specific achievements mattered more than polished language alone.",
+      "Explained why funding changed feasibility in precise terms.",
+      "Linked Hong Kong to a concrete next step, not abstract global exposure."
+    ]
+  },
+  {
+    "id": "artifact_4",
+    "authorID": "peer_rafi",
+    "programID": null,
+    "title": "US finance interview notes",
+    "summary": "An alumni note on which questions repeated across finance interview calls.",
+    "kind": "Interview Debrief",
+    "country": "United States",
+    "subjectArea": "Finance",
+    "degreeLevel": "Master's",
+    "verificationStatus": "Verified Alumni",
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-28T09:00:00Z",
+    "bulletHighlights": [
+      "Expect direct questions about why the country matters for your plan.",
+      "Be ready to explain the funding plan without sounding uncertain.",
+      "Concrete post-degree goals reduce interviewer skepticism."
+    ]
+  }
+]

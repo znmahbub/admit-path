@@ -1,0 +1,200 @@
+[
+  {
+    "id": "uni_toronto_metropolitan",
+    "name": "Toronto Metropolitan University",
+    "country": "Canada",
+    "city": "Toronto",
+    "websiteURL": "https://example.org/uni_toronto_metropolitan",
+    "rankingBucket": "Top 200",
+    "type": "Public",
+    "region": "North America",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_ottawa",
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "city": "Ottawa",
+    "websiteURL": "https://example.org/uni_ottawa",
+    "rankingBucket": "Top 200",
+    "type": "Public",
+    "region": "North America",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_leeds",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "city": "Leeds",
+    "websiteURL": "https://example.org/uni_leeds",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_birmingham",
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "city": "Birmingham",
+    "websiteURL": "https://example.org/uni_birmingham",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_arizona_state",
+    "name": "Arizona State University",
+    "country": "United States",
+    "city": "Tempe",
+    "websiteURL": "https://example.org/uni_arizona_state",
+    "rankingBucket": "Top 200",
+    "type": "Public",
+    "region": "North America",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_northeastern",
+    "name": "Northeastern University",
+    "country": "United States",
+    "city": "Boston",
+    "websiteURL": "https://example.org/uni_northeastern",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "North America",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_monash",
+    "name": "Monash University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "websiteURL": "https://example.org/uni_monash",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "Oceania",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_deakin",
+    "name": "Deakin University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "websiteURL": "https://example.org/uni_deakin",
+    "rankingBucket": "Top 250",
+    "type": "Public",
+    "region": "Oceania",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_malaya",
+    "name": "University of Malaya",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "websiteURL": "https://example.org/uni_malaya",
+    "rankingBucket": "Top 150",
+    "type": "Public",
+    "region": "Asia",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_taylors",
+    "name": "Taylor's University",
+    "country": "Malaysia",
+    "city": "Subang Jaya",
+    "websiteURL": "https://example.org/uni_taylors",
+    "rankingBucket": "Top 300",
+    "type": "Public",
+    "region": "Asia",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_cityu_hk",
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "websiteURL": "https://example.org/uni_cityu_hk",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "Asia",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_hkbu",
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "websiteURL": "https://example.org/uni_hkbu",
+    "rankingBucket": "Top 250",
+    "type": "Public",
+    "region": "Asia",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_mannheim",
+    "name": "University of Mannheim",
+    "country": "Germany",
+    "city": "Mannheim",
+    "websiteURL": "https://example.org/uni_mannheim",
+    "rankingBucket": "Top 150",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_tu_berlin",
+    "name": "Technical University of Berlin",
+    "country": "Germany",
+    "city": "Berlin",
+    "websiteURL": "https://example.org/uni_tu_berlin",
+    "rankingBucket": "Top 150",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_groningen",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "city": "Groningen",
+    "websiteURL": "https://example.org/uni_groningen",
+    "rankingBucket": "Top 150",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_erasmus",
+    "name": "Erasmus University Rotterdam",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "websiteURL": "https://example.org/uni_erasmus",
+    "rankingBucket": "Top 100",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_ucd",
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "city": "Dublin",
+    "websiteURL": "https://example.org/uni_ucd",
+    "rankingBucket": "Top 150",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  },
+  {
+    "id": "uni_galway",
+    "name": "University of Galway",
+    "country": "Ireland",
+    "city": "Galway",
+    "websiteURL": "https://example.org/uni_galway",
+    "rankingBucket": "Top 250",
+    "type": "Public",
+    "region": "Europe",
+    "featuredForBangladesh": true
+  }
+]

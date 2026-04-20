@@ -1,0 +1,29 @@
+[
+  {
+    "id": "reply_1",
+    "postID": "post_3",
+    "authorID": "peer_nabila",
+    "body": "Answering my own question after talking to admissions: start with passport, English score, and a budget check before you chase extra schools.",
+    "createdAt": "2026-03-27T09:00:00Z",
+    "moderationStatus": "Clear",
+    "isAcceptedAnswer": false
+  },
+  {
+    "id": "reply_2",
+    "postID": "post_3",
+    "authorID": "peer_tahsin",
+    "body": "From Bangladesh, the most useful early sequence was: shortlist, IELTS, passport, scholarship scan, then transcripts. That prevented rework later.",
+    "createdAt": "2026-03-27T12:00:00Z",
+    "moderationStatus": "Clear",
+    "isAcceptedAnswer": true
+  },
+  {
+    "id": "reply_3",
+    "postID": "post_5",
+    "authorID": "peer_rafi",
+    "body": "For most applicants, Netherlands economics is much easier to justify when annual budget is honestly modeled first. I would not rely on weak scholarship data.",
+    "createdAt": "2026-03-30T10:00:00Z",
+    "moderationStatus": "Clear",
+    "isAcceptedAnswer": true
+  }
+]

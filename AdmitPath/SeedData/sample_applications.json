@@ -1,0 +1,32 @@
+[
+  {
+    "id": "app_tmu_analytics",
+    "programID": "uni_toronto_metropolitan_business_analytics_masters",
+    "universityName": "Toronto Metropolitan University",
+    "programName": "MSc Business Analytics",
+    "country": "Canada",
+    "status": "Preparing Docs",
+    "completionPercent": 45,
+    "notes": "Good affordability trade-off if a partial scholarship lands. Need sharper country rationale in the SOP.",
+    "linkedScholarshipIDs": [
+      "sch_canada_merit"
+    ],
+    "createdAt": "2026-11-15T09:00:00Z",
+    "targetDeadline": "2027-02-01"
+  },
+  {
+    "id": "app_uk_policy",
+    "programID": "uni_birmingham_public_policy_masters",
+    "universityName": "University of Birmingham",
+    "programName": "MPP Public Policy",
+    "country": "United Kingdom",
+    "status": "Researching",
+    "completionPercent": 20,
+    "notes": "Interesting fit, but cost pressure is higher. Need to compare against Canada before committing.",
+    "linkedScholarshipIDs": [
+      "sch_united_kingdom_merit"
+    ],
+    "createdAt": "2026-11-20T12:00:00Z",
+    "targetDeadline": "2027-03-15"
+  }
+]

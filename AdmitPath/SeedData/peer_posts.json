@@ -1,0 +1,122 @@
+[
+  {
+    "id": "post_1",
+    "authorID": "peer_sadia",
+    "title": "What changed my shortlist for Canada",
+    "body": "I stopped thinking in terms of rankings only and started comparing total annual cost, scholarship timing, and whether the curriculum actually matched my prior coursework.",
+    "kind": "Admit Story",
+    "country": "Canada",
+    "subjectArea": "Business Analytics",
+    "degreeLevel": "Master's",
+    "programID": "uni_toronto_metropolitan_business_analytics_masters",
+    "scholarshipID": "sch_canada_merit",
+    "tags": [
+      "budget",
+      "shortlist",
+      "bangladesh"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-20T10:00:00Z",
+    "upvoteCount": 28
+  },
+  {
+    "id": "post_2",
+    "authorID": "peer_faisal",
+    "title": "My data science SOP was too generic at first",
+    "body": "The first draft sounded polished but weak. What fixed it was replacing vague motivation with one specific project and one clear job target.",
+    "kind": "Admit Story",
+    "country": "United Kingdom",
+    "subjectArea": "Data Science",
+    "degreeLevel": "Master's",
+    "programID": null,
+    "scholarshipID": null,
+    "tags": [
+      "sop",
+      "evidence",
+      "uk"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-22T09:00:00Z",
+    "upvoteCount": 22
+  },
+  {
+    "id": "post_3",
+    "authorID": "peer_nabila",
+    "title": "Undergrad applicants: which deadlines mattered most in Australia?",
+    "body": "I am comparing Monash and Deakin. For students applying from Bangladesh, what should I prepare first after results and IELTS?",
+    "kind": "Question",
+    "country": "Australia",
+    "subjectArea": "Computer Science",
+    "degreeLevel": "Undergraduate",
+    "programID": null,
+    "scholarshipID": null,
+    "tags": [
+      "undergrad",
+      "deadlines",
+      "australia"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-25T07:00:00Z",
+    "upvoteCount": 14
+  },
+  {
+    "id": "post_4",
+    "authorID": "peer_rafi",
+    "title": "Finance applicants: do not ignore the visa prep date",
+    "body": "The official application deadline is not the only date that matters. If funding is tight, late visa prep can quietly destroy your timeline.",
+    "kind": "Scholarship Advice",
+    "country": "United States",
+    "subjectArea": "Finance",
+    "degreeLevel": "Master's",
+    "programID": null,
+    "scholarshipID": null,
+    "tags": [
+      "visa",
+      "finance",
+      "timeline"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-28T08:30:00Z",
+    "upvoteCount": 31
+  },
+  {
+    "id": "post_5",
+    "authorID": "peer_mahi",
+    "title": "Netherlands budget question for economics applicants",
+    "body": "Is anyone from Bangladesh seeing realistic funding paths for economics in the Netherlands, or is self-funding the only serious route?",
+    "kind": "Question",
+    "country": "Netherlands",
+    "subjectArea": "Economics",
+    "degreeLevel": "Undergraduate",
+    "programID": null,
+    "scholarshipID": null,
+    "tags": [
+      "netherlands",
+      "economics",
+      "budget"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-29T11:00:00Z",
+    "upvoteCount": 11
+  },
+  {
+    "id": "post_6",
+    "authorID": "peer_tahsin",
+    "title": "Hong Kong scholarship essays reward specificity",
+    "body": "My first essay was full of ambition but thin on evidence. The accepted version focused on two concrete achievements and one clear reason Hong Kong fit my plan.",
+    "kind": "Scholarship Advice",
+    "country": "Hong Kong",
+    "subjectArea": "Business Analytics",
+    "degreeLevel": "Undergraduate",
+    "programID": null,
+    "scholarshipID": null,
+    "tags": [
+      "hongkong",
+      "scholarship",
+      "essay"
+    ],
+    "moderationStatus": "Clear",
+    "createdAt": "2026-03-30T12:00:00Z",
+    "upvoteCount": 19
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "student_demo",
+  "fullName": "Nadia Rahman",
+  "nationality": "Bangladesh",
+  "currentCountry": "Bangladesh",
+  "homeCity": "Dhaka",
+  "targetIntake": "Fall 2027",
+  "degreeLevel": "Master's",
+  "subjectArea": "Business Analytics",
+  "secondaryCurriculum": "Bangladesh HSC",
+  "secondaryResultPercent": 91.2,
+  "undergraduateInstitution": "North South University",
+  "gpaValue": 3.62,
+  "gpaScale": 4.0,
+  "englishTestType": "IELTS",
+  "englishTestScore": 7.5,
+  "satScore": null,
+  "greScore": null,
+  "gmatScore": null,
+  "workExperienceYears": 2,
+  "scholarshipNeeded": true,
+  "annualBudgetUSD": 34000,
+  "tuitionBudgetUSD": 24000,
+  "annualBudgetBDT": 4200000,
+  "tuitionBudgetBDT": 2900000,
+  "preferredCountries": [
+    "Canada",
+    "United Kingdom",
+    "Australia"
+  ],
+  "targetCities": [
+    "Toronto",
+    "Leeds",
+    "Melbourne"
+  ],
+  "targetUniversityNames": [
+    "Toronto Metropolitan University",
+    "University of Leeds"
+  ],
+  "documentStatus": {
+    "sopDraftReady": false,
+    "cvReady": false,
+    "lorsReady": false,
+    "transcriptReady": true,
+    "englishScoreReady": true,
+    "passportReady": false,
+    "financialsReady": false,
+    "scholarshipEssayReady": false,
+    "portfolioReady": false
+  },
+  "onboardingComplete": true
+}
